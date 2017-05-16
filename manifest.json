@@ -1,0 +1,12 @@
+{  
+  "name": "Push Demo",  
+  "short_name": "Push Demo",  
+  "icons": [{  
+        "src": "images/icon-250x250.png",  
+        "sizes": "250x250",
+        "type": "image/png"
+      }],  
+  "start_url": "/index.html?homescreen=1",  
+  "display": "standalone",  
+  "gcm_sender_id": "your GCM key"
+}
